@@ -292,7 +292,3 @@ p {
     height: auto; /* Maintains the image aspect ratio */
   }
 }
-
-#ourServices:hover {
-  color: #72ff13;
-}
